@@ -1,4 +1,7 @@
 # UI-UX-Experiment2
+# NAME : MOHAMMED HAMZA M
+# REG NO: 212224230167
+
 # 📱 NEXAS Admin Dashboard – Web to Mobile Conversion  
 
 This project presents the **conversion of an existing web admin dashboard (NEXAS)** into a **mobile-friendly layout**, applying **Gestalt principles, UI patterns, usability principles**, and **branding/logo design**.  
